@@ -1,1 +1,1 @@
-module.exports = 'alpha'
+export * from './functions';
