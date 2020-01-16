@@ -1,6 +1,6 @@
 {
   "name": "@alexmironov/alpha",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.html",
   "scripts": {
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "652740dff7b4b7055277b318edab56723e5c8cb9"
+  "gitHead": "ce6d4dcaced14316c5795597a0d09c66f42dfd76"
 }
